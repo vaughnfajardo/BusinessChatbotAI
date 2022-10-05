@@ -19,7 +19,7 @@
 }
 
 
-
+'''
 what is your contact numbers
 what are your branches
 reservation? no physical place. delivery only
@@ -33,3 +33,5 @@ how much is the cost of this package
 what is the delivery fee
 mode of delivery (grab, lalamove, own rider)
 thank you! - send feedback and recommendation
+
+'''
