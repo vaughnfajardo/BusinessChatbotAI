@@ -31,25 +31,30 @@
          "responses": ["Check out Saranghae Korean Samgyupsal on Facebook for our menu. For order or inquires, call "
                        "MANILA LINE - 8525 7201 or CAVITE LINE - (046) 5024510 and (046)4365497."],
          "context_set": ""
+        },
         {"tag": "recommendation",
          "patterns": ["What do you recommend I buy?", "What should I buy?", "What is your best seller?"],
          "responses": ["Check out our Great Deal Set for P1999. This 6-8 pax comes with Pork Galbi, Pork Spicy, "
                        "Beef Bulgogi, Beef Galbi, and other delicious items. It also comes with a free brand new griller."],
          "context_set": ""
+        },
         {"tag": "payment",
          "patterns": ["What is the mode of payment", "How do I pay?", "How can I pay?", "Mode of transactions?"],
          "responses": ["You can pay using GCash, Maya, VISA, Mastercard, or with a Bank Transfer. Our representatives"
                        "will be relaying these details once you have placed your order."],
          "context_set": ""
+        },
         {"tag": "delivery",
          "patterns": ["How will you deliver?", "Will you use LalaMove, Grab, Borzo, or Mr. Speedy?", "How will you ship?"],
          "responses": ["We have our in-house riders who will ship your orders as soon as possible. Should they be busy,"
                        "we will be shipping your order through Borzo at no extra charge."],
          "context_set": ""
+        },
         {"tag": "thank you",
          "patterns": ["The food was really good.", "The beef, pork, and chicken was so soft and tender.", "Yummy!", "Delicious"],
          "responses": ["Thank you for your feedback. Saranghae Korean Samgyusapl, your favorite online K-store, is here to serve you delicious"
                        "and quality Korean food."],
          "context_set": ""
+        },
    ]
 }
